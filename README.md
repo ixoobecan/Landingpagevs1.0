@@ -1,6 +1,6 @@
 # PORTIFOLIO CURRICULO
 Esse projeto foi desenvolvido com o intuito de aprender a criar uma landingpage, utilizando stacks como HTML, CSS e biblioteca Bootstrap.
-# RESULTADO:
+# RESULTADO PRETENDIDO:
 <div align="center">
  <a href="https://imgur.com/PdXh0aw"><img src="https://i.imgur.com/PdXh0aw.jpg" title="source: imgur.com" /></a>
  
